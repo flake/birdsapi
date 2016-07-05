@@ -16,3 +16,16 @@ Run Meteor app inside the dir birdsapi
 $ meteor
 ```
    [Meteor]: <https://www.meteor.com/install>
+   
+   
+# API routes
+
+## GET
+   - /api/birds
+   - /api/birds/{id}
+
+## POST
+   - /api/birds
+
+## DELETE
+   - /api/birds/{id}
